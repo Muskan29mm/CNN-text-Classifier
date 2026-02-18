@@ -1,6 +1,26 @@
-# Streamlit Text Sentiment Classifier
+# CNN Text Classifier using Deep Learning
+
+This project is an end-to-end NLP application that classifies text sentiment using a Convolutional Neural Network (CNN).
+
+Features:
+
+• Deep Learning model using TensorFlow & Keras
+• Streamlit Web App deployment
+• Real-time text prediction
+• Batch CSV prediction
+• Production-ready pipeline
+
+Live Demo:
+https://cnn-text-classifier-nhxzqdbvkzrqzpyp5amuxx.streamlit.app/
 
 This app loads the trained `cnn_sent_model.h5` and `tokenizer.pkl` from the repository and provides a Streamlit UI to classify single texts or batch CSV files.
+
+Use Cases:
+
+• Customer feedback analysis
+• Social media sentiment analysis
+• Product review classification
+
 
 ## Quick start
 
